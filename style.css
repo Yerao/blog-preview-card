@@ -98,6 +98,7 @@ body {
 .info-container p {
   font: var(--text-preset-3);
   color: var(--color-gray-500);
+  margin: 0;
 }
 .writer-detail {
   display: flex;
