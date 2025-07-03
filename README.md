@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution Link](https://your-solution-url.com)
-- Live Site URL: [live site Link](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Yerao/blog-preview-card)
+- Live Site URL: (https://yerao.github.io/blog-preview-card/)
 
 ## My process
 
